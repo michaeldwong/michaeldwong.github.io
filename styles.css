@@ -1,0 +1,35 @@
+#picture
+{
+    float:left;
+    margin-left:15%;
+    margin-right:2%;
+    overflow:hidden;
+}
+#image
+{
+    width:250px;
+}
+
+sectitle
+{
+    font-family:'Helvetica'; 
+
+}
+
+#heading
+{
+}
+
+#aboutme
+{
+    overflow:auto;
+    margin-left:16%;
+    margin-right:16%;
+}
+
+#publications 
+{
+    overflow:auto;
+    margin-left:16%;
+    margin-right:16%;
+}
