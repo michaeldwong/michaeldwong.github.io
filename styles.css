@@ -7,7 +7,19 @@
 }
 #image
 {
-    width:250px;
+    width:200px;
+/*
+    margin-bottom: -60px;
+    margin-top: -50px;
+    margin-left: -20px;
+    margin-right: -20px;
+*/
+/*
+    margin-bottom: -4px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top:-10px;
+*/
 }
 
 sectitle
